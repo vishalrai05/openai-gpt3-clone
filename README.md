@@ -1,41 +1,37 @@
-# GPT3 Website
+# GPT-3 Modern Website
 
-#### Live Project🎉
-- [**GitHub** - https://nkilm.github.io/openai-gpt3](https://nkilm.github.io/openai-gpt3/)
-- [**Vercel** - https://openai-gpt3.vercel.app](https://nkilm.github.io/openai-gpt3/)
+A responsive modern landing page inspired by GPT-3/OpenAI design.  
+This project was built using React.js to practice component-based UI development, responsive layouts, reusable components, and clean CSS structure.
 
-## Usage
+## Live Demo
 
-- With Docker (Recommended)
+- Vercel: https://openai-gpt3.vercel.app
+
+## Project Overview
+
+This website contains multiple sections such as navbar, hero section, features, CTA, blog cards, and footer.  
+The main goal of this project was to improve my frontend development skills by converting a Figma design into a fully responsive React website.
+
+## Tech Stack
+
+- React.js
+- CSS3
+- BEM CSS methodology
+- Flexbox
+- CSS Grid
+- Vercel
+
+## Features
+
+- Fully responsive design
+- Clean and reusable React components
+- Organized project structure
+- Modern UI with gradients and animations
+- CSS variables for easy styling
+- Deployed on Vercel
+
+## Installation
+
 ```bash
-docker build -t openai-gpt3 .
-```
-```bash
-docker run -it -p 3000:3000 openai-gpt3
-```
-
-- Without Docker 
-```bash
-npm i
+npm install
 npm start
-```
-
-## Concepts Learned
-- [x] Website Design - **Figma**
-- [x] BEM(Block-Element-Modifier) CSS
-- [x] Flexbox and Grid
-- [x] Complex CSS Animation (**Gradients and Key-frames**)
-- [x] CSS Variables in React Project
-- [x] React Component Reusability
-- [x] Clean Imports in React Components
-- [x] React Project Structure
-- [x] Responsive Website using Reactjs
-- [x] Deploying React App(s) to GitHub/Vercel
-- [x] Containerizing NodeJS app using Docker
-
-
-## Figma Design - 
-[*Click me!!*](https://www.figma.com/file/lz9lLpFHMxHm2odnwM3R0z/gpt3?node-id=0%3A15)
-## Credits 
-
-YouTube - [Javascript Mastery](https://www.youtube.com/c/JavaScriptMastery) 
